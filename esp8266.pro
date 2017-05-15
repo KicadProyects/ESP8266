@@ -1,4 +1,4 @@
-update=23/01/2017 20:13:10
+update=14/5/2017 8:48:56 p. m.
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,12 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=C:/Program Files/KiCad/share/kicad/library/ESP8266
+LibName31=ESP8266
+LibName32=makerlab
+LibName33=w_analog
+LibName34=w_connectors
+LibName35=w_device
+LibName36=w_microcontrollers
+LibName37=w_opto
+LibName38=w_relay
+LibName39=w_transistor
